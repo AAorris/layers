@@ -1,6 +1,6 @@
 {
-    "name": "radiant",
+    "name": "layers",
     "version": 2,
-    "alias": ["radiant.amorris.ca"],
+    "alias": ["layers.amorris.ca"],
     "public": true
 }
